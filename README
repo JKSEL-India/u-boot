@@ -1,3 +1,15 @@
+# -------------------------------------------------
+# ManishV test u-boot for RPI 4B --> TAG v2024.10-rc6
+# ManishV RPI4-Compilation  steps 
+
+# export CROSS_COMPILE=aarch64-linux-gnu-
+# make rpi_4_defconfig
+# make -j6
+# ManishV --> End 
+
+#-----------------------------------------------
+
+
 # SPDX-License-Identifier: GPL-2.0+
 #
 # (C) Copyright 2000 - 2013
